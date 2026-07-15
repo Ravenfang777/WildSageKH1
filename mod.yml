@@ -1,0 +1,12 @@
+title: Wild Sage KH1
+originalAuthor: RF777
+description: 'Replaces Lady Luck with Wild Sage'
+assets:
+- name: remastered/xw_ex_5140.wpn/-e140.cvbl
+  method: copy
+  source:
+  - name: remastered/xw_ex_5140.wpn/-e140.cvbl
+- name: remastered/xw_ex_5140.wpn/-e240.dds
+  method: copy
+  source:
+  - name: remastered/xw_ex_5140.wpn/-e240.dds
